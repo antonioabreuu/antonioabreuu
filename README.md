@@ -8,7 +8,7 @@ Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHa
 
 ### 🎮 Progresso Prático
 <a href="https://tryhackme.com/p/Antonio.Abreu" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Antonio.Abreu.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Antonio.Abreu.png" alt="TryHackMe Badge" />
 </a>
 
 ### 🛡️ Certificações

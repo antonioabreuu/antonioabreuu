@@ -14,7 +14,7 @@ Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHa
 ### 🛡️ Certificações
 - **[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/a2487433-b0fa-45fd-974f-6f977b8ea147/public_url)**
 - **[Introduction to Cybersecurity (Cisco)](https://www.credly.com/badges/3883389a-4194-4836-981d-d7259486ae22/public_url)**
-- **THM-Cyber 101**
+- **[THM: Cyber Security 101](THM_Cyber_Security_101.pdf)**
 - **[AWS Cloud Practitioner Essentials](AWS_Cloud_Practitioner_Essentials.pdf)**
 
 ### 🛠️ Tecnologias e Ferramentas em Estudo

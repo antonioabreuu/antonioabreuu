@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou o Antônio Abreu! 👋
 
-<!--
-**antonioabreuu/antonioabreuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Cibersegurança | Foco em SOC e Automação**
 
-Here are some ideas to get you started:
+Estou no início da minha jornada na área de segurança da informação, construindo minha base técnica com foco em Blue Team e operações de SOC (Nível 1). Gosto bastante de automação de tarefas e de entender como a Inteligência Artificial pode ser usada para facilitar processos de segurança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHackMe), testes iniciais de laboratórios virtuais (explorando ferramentas de monitoramento como o Wazuh) e o desenvolvimento de projetos próprios usando Python.
+
+### 🎮 Progresso Prático
+<a href="https://tryhackme.com/p/Antonio.Abreu" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Antonio.Abreu.png" alt="TryHackMe Badge" />
+</a>
+
+### 🛡️ Certificações
+- **Google Cybersecurity Professional Certificate**
+- **Introduction to Cybersecurity** (Cisco)
+- **THM-Cyber 101**
+- **AWS Cloud Practitioner Essentials**
+
+### 🛠️ Tecnologias e Ferramentas em Estudo
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wazuh-005E85?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</div>
+
+### 🚀 Projetos em Destaque
+
+* **[🛡️ PhishGuard AI](https://github.com/antonioabreuu/PhishGuard_AI)**  
+  Detector de links maliciosos que utiliza Machine Learning (Random Forest) e explicabilidade (SHAP) para identificar tentativas de phishing em URLs.
+
+* **[AI Trust Security Auditor](https://github.com/antonioabreuu/ai-trust-security-auditor)**  
+  Dashboard front-end construído para simular um ambiente de SOC (Nível 1), focado na auditoria de modelos de Inteligência Artificial e detecção de exfiltração de dados.

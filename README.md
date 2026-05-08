@@ -4,7 +4,7 @@
 
 Estou no início da minha jornada na área de segurança da informação, construindo minha base técnica com foco em Blue Team e operações de SOC (Nível 1). Gosto bastante de automação de tarefas e de entender como a Inteligência Artificial pode ser usada para facilitar processos de segurança.
 
-Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHackMe), testes iniciais de laboratórios virtuais (explorando ferramentas de monitoramento como o Wazuh) e o desenvolvimento de projetos próprios usando Python.
+Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHackMe), testes iniciais de laboratórios virtuais e o desenvolvimento de projetos próprios usando IA/Python.
 
 ### 🎮 Progresso Prático
 <a href="https://tryhackme.com/p/Antonio.Abreu" target="_blank">
@@ -22,7 +22,6 @@ Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHa
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wazuh-005E85?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </div>

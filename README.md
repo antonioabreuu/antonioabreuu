@@ -2,7 +2,7 @@
 
 **Estudante de Cibersegurança | Foco em SOC e Automação**
 
-Estou no início da minha jornada na área de segurança da informação, construindo minha base técnica com foco em Blue Team e operações de SOC (Nível 1). Gosto bastante de automação de tarefas e de entender como a Inteligência Artificial pode ser usada para facilitar processos de segurança.
+Estou no início da minha jornada na área de segurança da informação, construindo minha base técnica com foco em Blue Team. Gosto bastante de automação de tarefas e de entender como a Inteligência Artificial pode ser utilizada para facilitar processos de segurança.
 
 Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHackMe), testes iniciais de laboratórios virtuais e o desenvolvimento de projetos próprios usando IA/Python.
 

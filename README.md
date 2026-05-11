@@ -35,4 +35,4 @@ Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHa
 * **[AI Trust Security Auditor](https://github.com/antonioabreuu/ai-trust-security-auditor)**  
   Dashboard front-end construído para simular um ambiente de SOC (Nível 1), focado na auditoria de modelos de Inteligência Artificial e detecção de exfiltração de dados.
 
- * **[Investigação Forense: NetSupport RAT](https://github.com/antonioabreuu/network-traffic-analysis)** Análise forense de rede (PCAP) utilizando Wireshark para dissecar uma infecção real de malware, mapeando Indicadores de Comprometimento (IOCs) e comunicação de Comando e Controle (C2).
+ * **[Network Traffic Analysis](https://github.com/antonioabreuu/network-traffic-analysis)** Análise forense de rede (PCAP) utilizando Wireshark para dissecar uma infecção real de malware, mapeando Indicadores de Comprometimento (IOCs) e comunicação de Comando e Controle (C2).

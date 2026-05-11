@@ -24,6 +24,7 @@ Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHa
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
 ### 🚀 Projetos em Destaque
@@ -33,3 +34,5 @@ Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHa
 
 * **[AI Trust Security Auditor](https://github.com/antonioabreuu/ai-trust-security-auditor)**  
   Dashboard front-end construído para simular um ambiente de SOC (Nível 1), focado na auditoria de modelos de Inteligência Artificial e detecção de exfiltração de dados.
+
+ * **[Investigação Forense: NetSupport RAT](https://github.com/antonioabreuu/network-traffic-analysis)** Análise forense de rede (PCAP) utilizando Wireshark para dissecar uma infecção real de malware, mapeando Indicadores de Comprometimento (IOCs) e comunicação de Comando e Controle (C2).

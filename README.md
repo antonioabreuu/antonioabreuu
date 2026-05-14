@@ -36,3 +36,5 @@ Atualmente, divido meu tempo de estudo entre plataformas práticas (como o TryHa
   Dashboard front-end construído para simular um ambiente de SOC (Nível 1), focado na auditoria de modelos de Inteligência Artificial e detecção de exfiltração de dados.
 
  * **[Network Traffic Analysis](https://github.com/antonioabreuu/network-traffic-analysis)**<br>Análise forense de rede (PCAP) utilizando Wireshark para dissecar uma infecção real de malware, mapeando Indicadores de Comprometimento (IOCs) e comunicação de Comando e Controle (C2).
+
+ * **[CyberQuest: Missão Datacenter](https://github.com/antonioabreuu/cyber-security-rpg)**<br>Mini-RPG educacional desenvolvido em React para ensinar conceitos fundamentais de Cibersegurança de forma gamificada.

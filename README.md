@@ -1,22 +1,20 @@
 ## Olá, eu sou o Antônio Abreu! 👋
 
-*Profissional de Relações Internacionais | Foco em Logística, Comércio Exterior e Compliance*
+*Profissional de Relações Internacionais em transição para Logística*
 
-Sou bacharel em Relações Internacionais e possuo MBA em Cooperação Internacional e Políticas Públicas. Atualmente, estou expandindo minha atuação para as áreas de Logística e Comércio Exterior, buscando integrar visão estratégica global com eficiência operacional e conformidade. 
+Sou bacharel em Relações Internacionais e possuo MBA em Cooperação Internacional e Políticas Públicas. Atualmente, estou direcionando minha carreira para a área de Logística, buscando unir minha visão estratégica global com o dia a dia operacional das cadeias de suprimentos.
 
-Acredito que o futuro das operações internacionais exige profissionais multiespecialistas. Por isso, trago também uma forte base tecnológica e analítica (Python, IA, análise de dados e segurança da informação), que utilizo para otimizar processos, gerenciar riscos e tomar decisões baseadas em dados no ecossistema de Supply Chain e Compliance.
+Sou um profissional curioso e gosto de entender como as coisas funcionam por trás dos panos. Por isso, dediquei um tempo estudando programação e fundamentos de tecnologia e segurança, o que me ajudou a desenvolver um perfil mais analítico e focado em resolução de problemas.
 
 ### 🎯 O que estou focando agora
-- **Aperfeiçoamento Contínuo:** Aprofundando estudos práticos em Logística e Comércio Exterior (foco em sistemas como DUIMP e ERPs).
-- **Idiomas:** Preparação intensa para certificações internacionais de proficiência em Inglês (IELTS/TOEFL) e estudos de Alemão.
-- **Processos & Compliance:** Explorando certificações e frameworks de governança, privacidade de dados (CIPP/E) e melhoria contínua (Lean Six Sigma Yellow Belt).
+- **Formação em Logística:** Iniciando o curso de Tecnólogo em Logística para construir uma base prática e operacional forte.
+- **Idiomas:** Preparação focada nas certificações internacionais de proficiência em Inglês (IELTS/TOEFL).
 
-### 🛠️ Minha Caixa de Ferramentas
-- **Negócios & Operações:** Comércio Internacional, Supply Chain, Análise de Risco, Compliance (ISO 37301).
-- **Tecnologia & Dados:** Python, Automação, Inteligência Artificial, Análise de Tráfego/Dados.
-- **Idiomas:** Português (Nativo), Inglês (Avançado), Alemão (Em desenvolvimento).
+### 🛠️ Minhas Habilidades e Interesses
+- **Background:** Relações Internacionais, Políticas Públicas e visão global.
+- **Tecnologia (Estudos Independentes):** Noções de Python, análise de dados e familiaridade com ferramentas tecnológicas.
+- **Idiomas:** Português (Nativo) e Inglês (Avançado).
 
-### 🚀 Histórico de Projetos (Tech & Analytics)
-Meus projetos anteriores refletem minha capacidade de resolver problemas complexos, mapear riscos e aplicar automação e IA — habilidades que hoje aplico na análise de cadeias de suprimentos e inteligência de mercado:
-- **PhishGuard AI:** Modelo de Machine Learning para detecção de fraudes, demonstrando capacidade analítica com dados.
-- **AI Trust Security Auditor:** Dashboard focado em auditoria e governança, alinhado com princípios de compliance técnico.
+### 🚀 Meus Projetos de Estudo
+Durante meus estudos independentes em tecnologia, desenvolvi alguns projetos práticos para exercitar lógica e análise de dados. Eles estão aqui no GitHub como um registro do meu aprendizado:
+- **PhishGuard AI & AI Trust Security Auditor:** Projetos de estudo focados em análise de URLs e painéis de segurança, criados para aplicar conceitos de Python e entender o funcionamento de fluxos de dados.

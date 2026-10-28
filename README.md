@@ -1,8 +1,8 @@
 ## Olá, eu sou o Antônio Abreu! 👋
 
-*Profissional de Relações Internacionais em transição para Logística*
+*Profissional de Relações Internacionais em transição para Comex*
 
-Sou bacharel em Relações Internacionais e possuo MBA em Cooperação Internacional e Políticas Públicas. Atualmente, estou direcionando minha carreira para a área de Comex, buscando unir minha visão estratégica global com o dia a dia prático das operações de suprimentos.
+Sou bacharel em Relações Internacionais e possuo MBA em Cooperação Internacional e Políticas Públicas. Atualmente, estou direcionando minha carreira para a área de Comex, buscando unir minha visão estratégica global com o dia a dia prático das operações internacionais.
 
 
 ### 🛠️ Minhas Habilidades e Interesses

@@ -2,11 +2,8 @@
 
 *Profissional de Relações Internacionais em transição para Logística*
 
-Sou bacharel em Relações Internacionais e possuo MBA em Cooperação Internacional e Políticas Públicas. Atualmente, estou direcionando minha carreira para a área de Logística, buscando unir minha visão estratégica global com o dia a dia prático das operações de suprimentos.
+Sou bacharel em Relações Internacionais e possuo MBA em Cooperação Internacional e Políticas Públicas. Atualmente, estou direcionando minha carreira para a área de Comex, buscando unir minha visão estratégica global com o dia a dia prático das operações de suprimentos.
 
-### 🎯 O que estou focando agora
-- **Formação em Logística:** Iniciando o curso de Tecnólogo em Logística para construir uma base operacional sólida.
-- **Idiomas:** Preparação focada nas certificações internacionais de proficiência em Inglês (IELTS/TOEFL).
 
 ### 🛠️ Minhas Habilidades e Interesses
 - **Background:** Relações Internacionais, Políticas Públicas e visão global.
